@@ -1,0 +1,145 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Sacramento',Arial, Helvetica, sans-serif, cursive;
+    color: 40514E;
+}
+
+h1{
+    font-size: 400%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    color: #1f6565;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color:#1f6565 ;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+color: #EAF6F6;
+}
+
+.top-class{
+    background-color: rgb(151, 206, 254);
+    position: relative;
+    padding-top: 100px;
+}
+
+.footer-link{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.btn{
+    font-family: 'Montserrat', sans-serif;
+   
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.middle-container{
+
+margin: 100px 0px;
+}
+.bottom-container{
+ background-color:#66bfbf ;
+ padding: 50px 0px 40px;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+top:50px
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.subtitle{
+    font-weight: normal;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.my-skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.My-skills1{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.copyright{
+    color: #EAF6F6;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.paragraf{
+    margin: 40px auto 60px;
+    width: 20%;
+    
+}
